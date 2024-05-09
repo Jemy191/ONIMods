@@ -4,7 +4,7 @@ using PeterHan.PLib.Options;
 namespace CarryCapacityModifierMod
 {
     [JsonObject(MemberSerialization.OptIn)]
-    //[ModInfo("https://www.github.com/peterhaneve/ONIMods")]
+    [ModInfo("https://github.com/Jemy191/ONIMods")]
     public class Settings
     {
         [Option("Carry capacity modifier", "Add a modifier to duplicants' carry capacity.")]
