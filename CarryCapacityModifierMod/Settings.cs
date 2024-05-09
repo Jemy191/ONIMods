@@ -18,7 +18,7 @@ namespace CarryCapacityModifierMod
 
         public Settings()
         {
-            CarryModifier = 100;
+            CarryModifier = 50;
             IsMultiplier = true;
         }
     }
